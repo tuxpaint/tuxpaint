@@ -1,8 +1,6 @@
 # Tabla de contenidos
 1. [Hacking Ético](#HackingEtico)
-2. [Bastionado](#Bastionado)
-3. [Forense](#Forense)
-4. [PPS](#PPS)
+
 
 # HackingEtico
 
